@@ -39,3 +39,4 @@ def home(db: Session = Depends(get_db)):
         "message": "DB connected"
     }
 
+ 
